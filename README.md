@@ -19,6 +19,10 @@ pip install virtualenvwrapper-win
 pip install django
 pip install psycopg2
 ```
+- [x] Creating a virtual Environement
+- [x] Setting up an app
+- [x] Object-Realtional Mapper
+- [x] Setting up urls and views
 
 ## Creating a virtual Environment
 
@@ -71,7 +75,7 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 
-## Setting up urls
+## Setting up urls and views
 Before diving into below code, we have to know what are `views`. Python allows us to define views that handle specific request and return a response whenever following urls are hit. 
 We have here three urls(all should be distinct), every url corresponds to a view(can be same or different). 
 ```
