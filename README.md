@@ -1,7 +1,7 @@
 # TODO APP
 
 ## Softwares Required
-This project is about creating a REST API using django, postgres and implementing CRUD operations. I have not used any frontend technologies instead used POSTMAN software for sending requests.
+This project is about creating a REST API using django, postgres and implementing CRUD operations. 
 
 For using this api you have to install following softwares
 1. [Python](https://www.python.org/)
