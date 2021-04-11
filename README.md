@@ -60,7 +60,7 @@ INSTALLED_APPS = [
 ]
 ```
 
-## Object-Realtional Mapper
+## Object-Relational Mapper
 Django uses the concept of Object-Relational Mapper where using Python we make SQL queries. Here by adding following class we are creating a `Todo` Schema in our database with `content` as an attribute. Below we are importing models which will help us to create a table and specify its column name along with many other options of giving a `default` value or make it compulsory for a user to enter that value using `blank=false` argument.
 
 ```
